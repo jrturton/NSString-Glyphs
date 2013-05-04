@@ -5,4 +5,4 @@ Category on NSString to return a UIBezierPath of the string in a font of your ch
 
 You can then create tasteful effects like this: 
 
-![Lovely example]()
+![Lovely example](glyph.png)
